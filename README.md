@@ -19,7 +19,7 @@ Sebelum memulai, pastikan Anda memiliki beberapa hal berikut:
 - **JDK** - Java Development Kit untuk aplikasi berbasis Java
 - **Handphone Android** - Untuk Android Device karena device saya kentang (Harus sudah di aktifkan developer option dan juga aktifkan function 'Debugging USB', 'Install Via USB' & Debugging USB(Setelan Keamanan || Matikan Option 'Verifikasi apl via USB')
 - **Kabel Data** - Untuk mencolokkan device android ke Laptop
-- **Install Aplikasi Eraspace** - Harus menginstall aplikasi eraspace dari google play store dikarenakan saya tidak mendapatkan Installer APK eraspace
+- **Install Aplikasi Eraspace** - Harus menginstall aplikasi eraspace dari google play store dikarenakan saya tidak mendapatkan Installer APK eraspace, Apps Yang digunakan saya Versi '5.14.2'
 
 ### **2. Instalasi**
 
