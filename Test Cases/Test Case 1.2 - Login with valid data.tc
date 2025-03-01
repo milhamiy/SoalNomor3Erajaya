@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case 1.2 - Login with invalid data</name>
+   <name>Test Case 1.2 - Login with valid data</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
