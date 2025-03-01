@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 1.2 - Login with invalid data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>432af2cc-d0af-4c42-9776-283457d08ba8</testCaseGuid>
+</TestCaseEntity>
