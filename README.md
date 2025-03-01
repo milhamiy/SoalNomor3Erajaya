@@ -15,6 +15,7 @@ Sebelum memulai, pastikan Anda memiliki beberapa hal berikut:
 
 - **Node.js** - Instalasi [Node.js](https://nodejs.org/)
 - **npm** - Paket manajer untuk JavaScript (biasanya sudah terinstal bersama Node.js)
+- **uiautomator2@4.1.0** - Install driver ini dengan command appium 'appium driver install uiautomator2' pada CMD/command prompt
 - **JDK** - Java Development Kit untuk aplikasi berbasis Java
 - **Handphone Android** - Untuk Android Device karena device saya kentang (Harus sudah di aktifkan developer option dan juga aktifkan function 'Debugging USB', 'Install Via USB' & Debugging USB(Setelan Keamanan || Matikan Option 'Verifikasi apl via USB')
 - **Kabel Data** - Untuk mencolokkan device android ke Laptop
